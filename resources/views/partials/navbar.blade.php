@@ -18,6 +18,7 @@
         <li class="nav-item">
           <a class="nav-link {{ ( $tittle === 'Contacts') ? 'active' : ''}}" href="/contacts">Contacts</a>
         </li>
+        
       </ul>
     </div>
   </div>
